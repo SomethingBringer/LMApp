@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LMApp</string>
+    <string name="compare_btn_txt">Сравнить</string>
+    <string name="monkey_treasure_btn_txt">Monkey Treasure</string>
+    <string name="web_view_btn_txt">Web View</string>
+    <string name="usd_txt">Текущее значение доллара США:</string>
+</resources>
